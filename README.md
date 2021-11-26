@@ -9,5 +9,9 @@ The alert can be in the form of an email or voice prompt or both.
 
 
 Dataset link 1: https://makeml.app/datasets/mask
+
+
 Dataset link 2: https://doi.org/10.1016/j.smhl.2020.100144
+
+
 Dataset link 3: https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset
